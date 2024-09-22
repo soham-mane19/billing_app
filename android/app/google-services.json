@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659078460785",
+    "project_id": "vyaparapp-baa3a",
+    "storage_bucket": "vyaparapp-baa3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659078460785:android:5be6dccb80d1193fd2b2d0",
+        "android_client_info": {
+          "package_name": "com.example.vyapar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrgA2-54ZVPC1AueGiwFfx_LOqG3a_-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
